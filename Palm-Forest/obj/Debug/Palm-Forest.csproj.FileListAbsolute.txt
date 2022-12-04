@@ -1,0 +1,8 @@
+C:\Users\OneSmiLe\source\repos\Palm-Forest\Palm-Forest\bin\Debug\Palm-Forest.exe.config
+C:\Users\OneSmiLe\source\repos\Palm-Forest\Palm-Forest\bin\Debug\Palm-Forest.exe
+C:\Users\OneSmiLe\source\repos\Palm-Forest\Palm-Forest\bin\Debug\Palm-Forest.pdb
+C:\Users\OneSmiLe\source\repos\Palm-Forest\Palm-Forest\obj\Debug\Palm-Forest.csproj.AssemblyReference.cache
+C:\Users\OneSmiLe\source\repos\Palm-Forest\Palm-Forest\obj\Debug\Palm-Forest.csproj.SuggestedBindingRedirects.cache
+C:\Users\OneSmiLe\source\repos\Palm-Forest\Palm-Forest\obj\Debug\Palm-Forest.csproj.CoreCompileInputs.cache
+C:\Users\OneSmiLe\source\repos\Palm-Forest\Palm-Forest\obj\Debug\Palm-Forest.exe
+C:\Users\OneSmiLe\source\repos\Palm-Forest\Palm-Forest\obj\Debug\Palm-Forest.pdb
