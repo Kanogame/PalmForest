@@ -11,6 +11,7 @@ namespace Palm_Forest
         static void Main(string[] args)
         {
             Console.ReadLine();
+            Console.WriteLine("123");
         }
     }
 }
